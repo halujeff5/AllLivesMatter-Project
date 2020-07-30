@@ -43,7 +43,7 @@ For pyLDAvis click link http://jeffreyng.tech/
   
 Model 
   
-  - A dummy classifier was fitted and tested first. Then Random Forest, Multinomial Naive Bayes, and SVM with a 'linear' kernel. Other kernels were fitted as well with the 'rgb' and 'linear' doing the best while 'poly' and 'sigmoid' produced predictions in the 30% range. All three models had an f1 and accuracy score of 88-90%
+  - A dummy classifier was fitted and tested first. Then Random Forest, Multinomial Naive Bayes, and SVM with a 'linear' kernel. Other kernels were fitted as well with the 'rgb' and 'linear' doing the best while 'poly' and 'sigmoid' produced predictions in the 30% range. All three models had an f1 and accuracy score of 88-90%. The best model is the SVM model with a 'linear' kernel but in production, the limitation to this model is the kernel predicts linear data well only. For more general data Naive Bayes would be the best model. 
 
 Conclusion 
   
