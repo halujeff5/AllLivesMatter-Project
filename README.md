@@ -16,7 +16,7 @@ Data Preprocessing For NLP, scraped data needed to be tokenized, stop words remo
 
 EDA Through EDA, I created frequency distribution graphs of the words in each sentiment and created word clouds for the three sentiments as well. Also performed Latent Direlecht Allocation and made a pyLDAvis to show latent clusters in the data with their word importance in that cluster. Feature importances was also extracted from the RF model and SVM coefficients were noted (not in presentation). 
 
-![alt text](http://url/to/'RFC_feature_importance.png')
+![alt text]('RFC_feature_importance.png')
 ![alt text](http://url/to/'pos_Wcloud.png')
 
 
