@@ -38,7 +38,7 @@ Neutral Word Frequency
 
 ![](images/neu_wf.png)
 
-For pyLDAvis click link http://jeffreyng.tech/
+For pyLDAvis click link http://jeffreyng.tech/lda.html
   
   
 Model 
