@@ -47,4 +47,4 @@ Model
 
 Conclusion 
   
-  - #AllLivesMatter can be characterized to be a Conservative/Nationalist reactionary movement to #BlackLivesMatter. The tweet analysis shows that the messages were polarized and opinionated. With the social case established, next steps for the individual should be to investigate the message behind both sides and to sympathize for one another.
+  - Looking at our data, #AllLivesMatter can be characterized to be a Conservative/Nationalist reactionary movement to #BlackLivesMatter. The tweet analysis shows that the messages were polarized and opinionated. There were varied opinion on social issues across the platform such as views on former President Trump, and Black Americans. With the social case established, next steps for the individual should be to investigate the message behind both sides and to sympathize for one another.
