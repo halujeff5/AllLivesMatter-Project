@@ -28,7 +28,7 @@ PROJECT:
 
  EDA 
   
-- Through EDA, I created frequency distribution graphs of the words in each sentiment and created word clouds for the three sentiments as well. Also performed Latent Direlecht Allocation and made a pyLDAvis to show latent clusters in the data with their word importance in that cluster. Feature importances was also extracted from the RF model and SVM coefficients were noted (not in presentation). 
+- Through EDA, I created frequency distribution graphs of the words in each sentiment and created word clouds for the three sentiments as well. The sentiment classification is distributed positively with slighlty more negative sentiment with a small percentage under neutral. Also performed Latent Direlecht Allocation and made a pyLDAvis to show latent clusters in the data with their word importance in that cluster. Feature importances was also extracted from the RF model and SVM coefficients were noted (not in presentation). 
 
 RF Feature Importance
 
